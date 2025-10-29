@@ -1,4 +1,10 @@
-# 👋 KT Cloud TECH-UP Backend 1기 | Team 5 Leader | github.com/SeulGi0117
+# 전자상거래 프로젝트
+👋 KT Cloud TECH-UP Backend 1기 | Team 5 Leader | github.com/SeulGi0117
+
+# 🎯 주요 목표
+- 백엔드 핵심 기술을 활용하여 **실시간 채팅, 전자상거래, 블로그 관리, 개인 맞춤 서비스** 등의 기능을 지원하는   
+ RESTful API를 설계하고 문서화하며, 실제 배포 가능한 형태로 구현합니다.
+
 ## 강슬기
 > 안녕하세요, KT Cloud TECH-UP 백엔드 1기에서 학습 중인 강슬기입니다.   
 현재 5조 전자상거래 백엔드 프로젝트의 팀 리더로, 팀원들과 함께 Spring Boot 기반의 전자상거래 시스템을 설계·개발할 예정입니다.   
